@@ -70,7 +70,7 @@
       "pre-commit": "npm run husky:pre-commit"
     }
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "lint-staged": {
     "*.css": [
       "stylelint --fix"
@@ -82,8 +82,8 @@
       "prettier --write"
     ]
   },
-  "name": "@ridedott/frontend-assignment-base",
-  "repository": "https://github.com/ridedott/frontend-assignment-base",
+  "name": "search-for-dogs",
+  "repository": "https://github.com/owanturist/search-for-dogs",
   "scripts": {
     "format": "prettier --check \"**/*.{css,js,json,md,ts,yml,yaml}\"",
     "format:fix": "prettier --write \"**/*.{css,js,json,md,ts,yml,yaml}\"",
