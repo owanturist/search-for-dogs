@@ -23,6 +23,15 @@ Launches the test runner.<br />
 
 - Pure css lighweight fast masonry grid.
 
+## What is the wierd reducers?
+
+This is the way how to create and use components without drilling of
+handlers/properties and keep the state global at the same time.
+
+If you are interested in the topic take a look at the
+[slides](http://bit.ly/fractal-architecture) or/and contact me. I'll be glad to
+explain my vision.
+
 ## Why classes?
 
 Here is a piece of code which describes simple counter's `Action` and way of
